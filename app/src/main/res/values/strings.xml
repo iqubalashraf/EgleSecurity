@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Egle Security</string>
+    <string name="enteryourmobile">Enter mobile number</string>
+    <string name="enteryourpassword">Enter password</string>
+    <string name="login">Login</string>
+</resources>
